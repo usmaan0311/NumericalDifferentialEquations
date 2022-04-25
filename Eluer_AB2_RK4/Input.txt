@@ -1,0 +1,15 @@
+//Euler
+//1
+//AB2
+2
+//RK4
+//3
+//initial time
+0
+//final time
+2
+// initial condition
+1
+//step size
+0.005
+
